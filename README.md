@@ -1,7 +1,9 @@
-<h1 align="center">Mouryan Puri</h1>
+<h1 align="center">
+  Hi 👋, I'm Mouryan
+</h1>
 
 <p align="center">
-  <b>Computing Science Student @ Simon Fraser University</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast;Backend+Developer;Linux+%26+Systems+Explorer;Data+Analytics+%26+AI+Learner" />
 </p>
 
 <p align="center">
