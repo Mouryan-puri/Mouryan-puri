@@ -1,51 +1,92 @@
-<h1 align="center">Hi 👋 I'm Mouryan</h1>
+<h1 align="center">Mouryan Puri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=500&lines=Computing+Science+Student;Systems+Programming+Enthusiast;Backend+Developer+in+Progress">
+  <b>Computing Science Student @ Simon Fraser University</b>
 </p>
 
 <p align="center">
-  4th Year Computing Science Student @ Simon Fraser University
-  <br>
-  Building software and learning how systems work under the hood
+  ☁️ Cloud & DevOps • ⚙️ Backend Engineering • 📊 Data Analytics • 🤖 AI/ML
 </p>
 
----
-
-## ⚡ Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,js,git,linux,docker,cmake,vscode&perline=8" />
+Building scalable systems, automating workflows, and exploring data-driven solutions.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
+
+- 🎓 Fourth-Year Computing Science Student at SFU
+- ☁️ Exploring Cloud Computing and DevOps practices
+- ⚙️ Interested in Backend Systems and Infrastructure
+- 📊 Enjoy working with data analysis and automation
+- 🤖 Learning Machine Learning and AI applications
+- 🐧 Daily Linux user and command-line enthusiast
+- 📚 Currently pursuing AWS Cloud Practitioner & CompTIA Security+
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Interests
+```
+Backend Development
+Cloud Infrastructure
+DevOps & Automation
+Data Analytics
+Machine Learning
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mouryan-puri&show_icons=true&rank_icon=github&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouryan-puri&layout=compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mouryan-puri&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🎯 Current Focus
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true">
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/YOURPROFILE"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-<a href="mailto:YOUREMAIL"><img src="https://skillicons.dev/icons?i=gmail"></a>
-</p>
+- ☁️ AWS Cloud Fundamentals
+- 🔐 CompTIA Security+
+- ⚙️ Backend Development
+- 🐳 Docker & Containerization
+- 📊 Data Analytics Projects
+- 🤖 Applied AI & Machine Learning
 
 ---
 
+## 🤝 Connect
+
 <p align="center">
-✨ Building things that are simple, efficient, and meaningful.
+  <a href="https://linkedin.com/in/mouryanpuri">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:mpa110@sfu.ca">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Always learning. Always building."</i>
 </p>
